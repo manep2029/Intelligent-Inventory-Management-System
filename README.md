@@ -1,1 +1,1 @@
-# Intelligent-Inventory-Management-System
+# Inventory-Management
